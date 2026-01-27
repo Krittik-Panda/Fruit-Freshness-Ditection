@@ -1,5 +1,5 @@
 .venv/
-original_data_set/
+data/
 models/
 X_features.npy
 y_labels.npy
